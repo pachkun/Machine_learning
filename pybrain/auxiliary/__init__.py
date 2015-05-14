@@ -1,0 +1,2 @@
+from pybrain.auxiliary.gradientdescent import GradientDescent
+from pybrain.auxiliary.gaussprocess import GaussianProcess
